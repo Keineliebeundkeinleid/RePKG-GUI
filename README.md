@@ -1,6 +1,6 @@
 # RePKG-GUI
 \
-基于RePKG的GUI操作界面（用于提取wallpaper壁纸）  
+基于RePKG的GUI操作界面（用于提取Wallpaper Engine壁纸）  
 
 
 # 使用方法
@@ -10,7 +10,7 @@
  2.选择你要保存的文件路径
 
 \
- 3.选择wallpaper壁纸的scene.pkg文件
+ 3.选择Wallpaper Engine壁纸的scene.pkg文件
 
 \
  4.点击提取
