@@ -23,4 +23,4 @@
 
 \
 ***该项目基于【RePKG】（https://github.com/notscuffed/repkg）
-，运行前需要先下载好 RePKG.exe文件***
+，运行前需要先下载好 RePKG.zip压缩包并解压出 RePKG.exe文件***
