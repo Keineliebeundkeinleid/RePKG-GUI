@@ -1,8 +1,8 @@
 # RePKG-GUI
 \
-基于RePKG的GUI操作界面，用于批量提取Wallpaper Engine壁纸  
-
-
+用于批量提取Wallpaper Engine壁纸  
+\
+基于RePKG的GUI界面
 # 使用方法
  1.选择RePKg.exe文件
 
