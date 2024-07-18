@@ -1,6 +1,6 @@
 # RePKG-GUI
 \
-基于RePKG的GUI操作界面（用于提取Wallpaper Engine壁纸）  
+基于RePKG的GUI操作界面（用于批量提取Wallpaper Engine壁纸）  
 
 
 # 使用方法
