@@ -23,5 +23,5 @@
 ***最好自己创建一个新的文件夹，RePKG提取时会生成一些文件夹，会有和你原来的文件搞混的风险***
 
 \
-***该项目基于【RePKG】（https://github.com/notscuffed/repkg）
+***该项目基于【RePKG】（https://github.com/notscuffed/repkg)
 ，运行前需要先下载好 RePKG.zip压缩包并解压出 RePKG.exe文件***
